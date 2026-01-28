@@ -1,5 +1,5 @@
 html, body {
-	background: #663399; /* Beccapurple */
+	background: #0000ff; /* Blue */
 	margin: 0;
 }
 h1, h2, h3, h4, h5, h6, p {
@@ -35,7 +35,7 @@ p {
 	margin-bottom: 1em;
 }
 a {
-	color: rgb(184, 126, 84);
+	color: #0000ff;
 }
 a:hover {
 	color: rgb(120, 97, 55);
